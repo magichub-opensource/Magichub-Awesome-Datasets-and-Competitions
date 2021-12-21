@@ -85,4 +85,4 @@ This open-source dataset consists of 4.08 hours of transcribed American Spanish 
 此数据集包含了4.08个小时的美洲西班牙语朗读音频和转写文本，有5,159条由10名说话人提供的日常用语语料。
 
 # Magic Data Proprietary Datasets
-Contact us if you need more training datasets for ML. [Send An Email](<caijia@magicdatatech.com>)
+Contact us if you need more training datasets for ML. [Send An Email](caijia@magicdatatech.com)
