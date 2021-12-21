@@ -26,5 +26,8 @@
 ### 6. [韩语对话音频数据集 (Korean Conversational Speech Corpus](https://magichub.com/datasets/korean-conversational-speech-corpus/ "")
 此数据集包含了5.22个小时的韩语对话音频和转写文本，内容为7组说话人之间的22组给定主题对话。
 
-### 7. [韩语朗读音频数据集-日常用语 (Korean Scripted Speech Corpus – Daily Use Sentence](https://magichub.com/datasets/korean-scripted-speech-corpus-daily-use-sentence/ "")
-此数据集包含了4.3个小时的韩语朗读音频和转写文本，有5,240条由10名说话人提供的日常用语语料。
+### 7. [德语对话音频数据集 (German Conversational Speech Corpus](https://magichub.com/datasets/german-conversational-speech-corpus-2/ "")
+此数据集包含6.55小时的德语对话音频和转写文本，内容为两组说话人之间的10组特定主题对话。
+
+### 8. [德语朗读音频数据集-命令控制 (German Scripted Speech Corpus – Command and Query](https://magichub.com/datasets/german-scripted-speech-corpus-command-and-query/ "")
+此数据集包含了0.71小时的德语朗读音频和转写文本，内容为命令和控制。共有597条语料，由10名说话人提供。
