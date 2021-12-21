@@ -59,3 +59,27 @@ This open-source dataset consists of 0.71 hours of transcribed German scripted s
 #### [Japanese Scripted Speech Corpus – Daily Use Sentence - 日语朗读音频数据集-日常用语](https://magichub.com/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ "")
 This open-source dataset consists of 18 hours of transcribed Japanese scripted speech focusing on daily use sentences, where 17,372 utterances contributed by 37 speakers were contained.<br><br>
 此数据集包含了18个小时的日语朗读音频和转写文本，有17,372条由37名说话人提供的日常用语语料。
+
+<br><br>
+
+## Italian Audio Datasets
+
+#### [Italian Scripted Speech Corpus – Command and Query - 意大利语朗读音频数据集—命令控制](https://magichub.com/datasets/italian-scripted-speech-corpus-command-and-query/ "")
+This open-source dataset consists of 0.9 hours of transcribed Italian scripted speech focusing on commands and queries, where 982 utterances contributed by ten speakers were contained.<br><br>
+此数据集包含了0.9个小时的意大利语朗读音频和转写文本，包含有982条由10名说话人提供的命令控制相关语料。
+
+#### [Italian Conversational Speech Corpus - 意大利语对话音频数据集](https://magichub.com/datasets/italian-conversational-speech-corpus/ "")
+This open-source dataset consists of 10.43 hours of transcribed Italian conversational speech on certain topics, where 28 conversations between three pairs of speakers were contained.<br><br>
+此数据集包含了10.43个小时的意大利语对话音频和转写文本，内容为三组说话人之间的28组给定主题对话。
+
+<br><br>
+
+## Spanish Audio Datasets
+
+#### [Spanish Conversational Speech Corpus - 西班牙语对话音频数据集](https://magichub.com/datasets/spanish-conversational-speech-corpus/ "")
+This open-source dataset consists of 5.56 hours of transcribed Peninsular Spanish conversational speech on certain topics, where 17 conversations between four pairs of speakers were contained.<br><br>
+此数据集包含了5.56个小时的西班牙半岛地区西班牙语对话音频和转写文本，内容为四组说话人之间的17组给定主题对话。
+
+#### [American Spanish Scripted Speech Corpus – Daily Use Sentence - 美洲西班牙语朗读音频数据集-日常用语](https://magichub.com/datasets/american-spanish-scripted-speech-corpus-daily-use-sentence/ "")
+This open-source dataset consists of 4.08 hours of transcribed American Spanish scripted speech focusing on daily use sentences, where 5,159 utterances contributed by ten speakers were contained.<br><br>
+此数据集包含了4.08个小时的美洲西班牙语朗读音频和转写文本，有5,159条由10名说话人提供的日常用语语料。
