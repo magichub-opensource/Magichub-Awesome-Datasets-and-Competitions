@@ -95,5 +95,18 @@ This open-source dataset consists of 4.08 hours of transcribed American Spanish 
 This open-source dataset consists of 6.57 hours of transcribed Russian scripted speech focusing on daily use sentences, where 3,842 utterances contributed by ten speakers were contained.<br><br>
 此数据集包含了6.57小时的俄语朗读音频和转写文本，内容为日常用语。共有3,842条语料，由10名说话人提供。
 
+<br><br>
+
+## Indonesian Audio Datasets
+
+#### [Indonesian Conversational Speech Corpus<br>印尼语对话音频数据集](https://magichub.com/datasets/indonesian-conversational-speech-corpus/ "")
+This open-source dataset consists of 4.54 hours of transcribed Indonesian conversational speech on certain topics, where seven conversations between two pairs of speakers were contained.<br><br>
+此数据集包含4.54小时的印尼语对话音频和转写文本，内容为两组说话人之间的七组特定主题对话。
+
+#### [Indonesian Scripted Speech Corpus – Daily Use Sentence<br>印尼语对话音频数据集](https://magichub.com/datasets/indonesian-scripted-speech-corpus-daily-use-sentence/ "")
+This open-source dataset consists of 3.5 hours of transcribed Indonesian scripted speech focusing on daily use sentences, where 3,296 utterances contributed by ten speakers were contained.<br><br>
+此数据集包含了3.5个小时的印尼语朗读音频和转写文本，有3,296条由10名说话人提供的日常用语语料。
+
+
 # Magic Data Proprietary Datasets
 Contact us if you need more training datasets for ML. <business@magicdatatech.com>
