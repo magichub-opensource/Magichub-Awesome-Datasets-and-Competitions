@@ -51,3 +51,11 @@ This open-source dataset consists of 6.55 hours of transcribed German conversati
 #### [German Scripted Speech Corpus – Command and Query - 德语朗读音频数据集-命令控制](https://magichub.com/datasets/german-scripted-speech-corpus-command-and-query/ "")
 This open-source dataset consists of 0.71 hours of transcribed German scripted speech focusing on commands and queries, where 597 utterances contributed by ten speakers were contained.<br><br>
 此数据集包含了0.71小时的德语朗读音频和转写文本，内容为命令和控制。共有597条语料，由10名说话人提供。
+
+<br><br>
+
+## Japanese Audio Datasets
+
+#### [Japanese Scripted Speech Corpus – Daily Use Sentence - 日语朗读音频数据集-日常用语](https://magichub.com/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ "")
+This open-source dataset consists of 18 hours of transcribed Japanese scripted speech focusing on daily use sentences, where 17,372 utterances contributed by 37 speakers were contained.<br><br>
+此数据集包含了18个小时的日语朗读音频和转写文本，有17,372条由37名说话人提供的日常用语语料。
