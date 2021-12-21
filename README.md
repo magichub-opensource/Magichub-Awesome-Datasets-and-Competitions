@@ -84,5 +84,13 @@ This open-source dataset consists of 5.56 hours of transcribed Peninsular Spanis
 This open-source dataset consists of 4.08 hours of transcribed American Spanish scripted speech focusing on daily use sentences, where 5,159 utterances contributed by ten speakers were contained.<br><br>
 此数据集包含了4.08个小时的美洲西班牙语朗读音频和转写文本，有5,159条由10名说话人提供的日常用语语料。
 
+<br><br>
+
+## Russian Audio Datasets
+
+#### [Russian Scripted Speech Corpus – Daily Use Sentence<br>俄语朗读音频数据集-日常用语](https://magichub.com/datasets/russian-scripted-speech-corpus-command-and-query/ "")
+This open-source dataset consists of 6.57 hours of transcribed Russian scripted speech focusing on daily use sentences, where 3,842 utterances contributed by ten speakers were contained.<br><br>
+此数据集包含了6.57小时的俄语朗读音频和转写文本，内容为日常用语。共有3,842条语料，由10名说话人提供。
+
 # Magic Data Proprietary Datasets
 Contact us if you need more training datasets for ML. <business@magicdatatech.com>
