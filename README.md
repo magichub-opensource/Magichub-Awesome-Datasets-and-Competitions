@@ -19,3 +19,12 @@
 
 ### 4. [巴基斯坦英语朗读数据集—日常用语 (Pakistani English Scripted Speech Corpus – Daily Use Sentence)](https://magichub.com/datasets/pakistani-english-scripted-speech-corpus-daily-use-sentence/ "")
 此数据集包含了4个小时的巴基斯坦英语朗读音频和转写 文本，内容为由7名说话人提供的2,191条日常用语语料。
+
+### 5. [法语对话音频数据集 (French Conversational Speech Corpus)](https://magichub.com/datasets/french-conversational-speech-corpus-2/ "")
+此数据集包含1.1个小时的法语对话音频和转写文本，内容为2组说话人之间的6组自由对话。
+
+### 6. [韩语对话音频数据集 (Korean Conversational Speech Corpus](https://magichub.com/datasets/korean-conversational-speech-corpus/ "")
+此数据集包含了5.22个小时的韩语对话音频和转写文本，内容为7组说话人之间的22组给定主题对话。
+
+### 7. [韩语朗读音频数据集-日常用语 (Korean Scripted Speech Corpus – Daily Use Sentence](https://magichub.com/datasets/korean-scripted-speech-corpus-daily-use-sentence/ "")
+此数据集包含了4.3个小时的韩语朗读音频和转写文本，有5,240条由10名说话人提供的日常用语语料。
