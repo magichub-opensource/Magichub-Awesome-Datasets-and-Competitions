@@ -24,17 +24,23 @@ This open-source dataset consists of 1.44 hours of transcribed Chinese English s
 This open-source dataset consists of 4 hours of transcribed Pakistani English scripted speech focusing on daily use sentences, where 2,191 utterances contributed by seven speakers were contained.<br><br>
 此数据集包含了4个小时的巴基斯坦英语朗读音频和转写 文本，内容为由7名说话人提供的2,191条日常用语语料。
 
+<br><br>
+
 ## French Audio Datasets
 
 #### [French Conversational Speech Corpus - 法语对话音频数据集](https://magichub.com/datasets/french-conversational-speech-corpus-2/ "")
 This open-source dataset consists of 1.1 hours of transcribed French conversational speech on certain topics, where six conversations between two speakers were contained.<br><br>
 此数据集包含1.1个小时的法语对话音频和转写文本，内容为2组说话人之间的6组自由对话。
 
+<br><br>
+
 ## Korean Audio Datasets
 
 #### [Korean Conversational Speech Corpus - 韩语对话音频数据集](https://magichub.com/datasets/korean-conversational-speech-corpus/ "")
 This open-source dataset consists of 5.22 hours of transcribed Korean conversational speech on certain topics, where 22 conversations between seven pairs of speakers were contained.<br><br>
 此数据集包含了5.22个小时的韩语对话音频和转写文本，内容为7组说话人之间的22组给定主题对话。
+
+<br><br>
 
 ## German Audio Datasets
 
