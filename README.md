@@ -38,6 +38,6 @@ This open-source dataset consists of 5.22 hours of transcribed Korean conversati
 This open-source dataset consists of 6.55 hours of transcribed German conversational speech on certain topics, where 10 conversations between two pairs of speakers were contained.<br><br>
 此数据集包含6.55小时的德语对话音频和转写文本，内容为两组说话人之间的10组特定主题对话。
 
-#### 8[German Scripted Speech Corpus – Command and Query - 德语朗读音频数据集-命令控制](https://magichub.com/datasets/german-scripted-speech-corpus-command-and-query/ "")
+#### [German Scripted Speech Corpus – Command and Query - 德语朗读音频数据集-命令控制](https://magichub.com/datasets/german-scripted-speech-corpus-command-and-query/ "")
 This open-source dataset consists of 0.71 hours of transcribed German scripted speech focusing on commands and queries, where 597 utterances contributed by ten speakers were contained.<br><br>
 此数据集包含了0.71小时的德语朗读音频和转写文本，内容为命令和控制。共有597条语料，由10名说话人提供。
