@@ -107,6 +107,7 @@ This open-source dataset consists of 4.54 hours of transcribed Indonesian conver
 This open-source dataset consists of 3.5 hours of transcribed Indonesian scripted speech focusing on daily use sentences, where 3,296 utterances contributed by ten speakers were contained.<br><br>
 此数据集包含了3.5个小时的印尼语朗读音频和转写文本，有3,296条由10名说话人提供的日常用语语料。
 
+<br><br>
 
 # Magic Data Proprietary Datasets
 Contact us if you need more training datasets for ML. <business@magicdatatech.com>
