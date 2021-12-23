@@ -135,5 +135,13 @@ This open-source dataset consists of a hundred sentences of commands and queries
 
 <br><br>
 
+## Japanese Audio Datasets
+
+#### [Japanese Text Corpus – Command and Query<br>日语智能家居命令控制语料库](https://magichub.com/datasets/japanese-text-corpus-command-and-query/ "")
+This open-source dataset consists of a hundred sentences of commands and queries in Japanese.<br><br>
+此数据集包含100条日语命令控制相关文本语料。
+
+<br><br>
+
 # Magic Data Proprietary Datasets
 Contact us if you need more training datasets for ML. <business@magicdatatech.com>
