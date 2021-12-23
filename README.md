@@ -111,5 +111,21 @@ This open-source dataset consists of 3.5 hours of transcribed Indonesian scripte
 
 <br><br>
 
+## English Text Datasets
+
+#### [Chinese English Parallel Corpus of Ice&Snow Sports News<br>中国英语平行语料冰雪运动新闻](https://magichub.com/datasets/guangzhou-cantonese-text-corpus/ "")
+This dataset contains 100 pieces of news.<br><br>
+此数据集包含100条新闻资料。
+
+#### [Chinese-English Parallel Corpus – Finance<br>中国英语并行语料库 - 金融类](https://magichub.com/datasets/chinese-english-parallel-corpus-finance/ "")
+This open-source dataset consists of a hundred sentences of Chinese-English parallel corpus translated from Chinese to English, concerning finance-related daily use sentences.<br><br>
+此数据集由百句中的汉语平行语料库组成，包含中文和英语，关于金融领域日常使用的句子。
+
+#### [English Customer Service Scenario Text Corpus – Healthcare<br>英语客户服务方案文本语料库 - 医疗保健](https://magichub.com/datasets/english-customer-service-scenario-text-corpus-healthcare/ "")
+This open-source dataset consists of 50 dialogic interactions with texts in English, concerning healthcare-related customer service scenarios.<br><br>
+此数据集包含50个与英语文本的问答互动，关于医疗保健相关的客户服务场景。
+
+<br><br>
+
 # Magic Data Proprietary Datasets
 Contact us if you need more training datasets for ML. <business@magicdatatech.com>
