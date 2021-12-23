@@ -127,5 +127,13 @@ This open-source dataset consists of 50 dialogic interactions with texts in Engl
 
 <br><br>
 
+## Korean Text Datasets
+
+#### [Korean Text Corpus – Command and Query<br>韩语智能家居命令控制语料库](https://magichub.com/datasets/korean-text-corpus-command-and-query/ "")
+This open-source dataset consists of a hundred sentences of commands and queries in Korean.<br><br>
+此数据集包含100条韩语命令控制相关文本语料。
+
+<br><br>
+
 # Magic Data Proprietary Datasets
 Contact us if you need more training datasets for ML. <business@magicdatatech.com>
