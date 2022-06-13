@@ -8,14 +8,14 @@
 ## [MagicData-RAMC-Challenge | MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "")
 [Overview | 赛程说明](https://magichub.com/competition/magichub-accented-mandarin-chinese-asr-challenge/)
 
-# ASR & TTS Corpus
 
-## Datasets License
-[Magic Data Open-Source License](https://magichub.com/magic-data-open-source-license/)
 
 <br><br>
 
-## Datasets
+# Datasets
+
+##### Datasets License
+[Magic Data Open-Source License](https://magichub.com/magic-data-open-source-license/)
 
 #### [Mandarin Chinese Scripted Speech Corpus – Keyword Spotting<br>中文普通话朗读音频数据集—唤醒词 ](https://magichub.com/datasets/mandarin-chinese-scripted-speech-corpus-keyword-spotting-2/ "")
 This open-source dataset consists of 6 hours of transcribed Mandarin Chinese scripted speech of keyword spotting in fast, normal, and slow speed, where 11,030utterances contributed by 37 speakers were contained.<br><br>
