@@ -7,6 +7,8 @@
 # Competitions
 ## [MagicData-RAMC-Challenge | MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "")
 [Overview](https://magichub.com/competition/magichub-accented-mandarin-chinese-asr-challenge/) | 赛程说明 | [Datasets for Training](https://magichub.com/datasets/magicdata-ramc/) | 训练集 [Baseline](https://github.com/MagicHub-io/MagicData-RAMC-Challenge) | 基线
+
+<br>
 PS: It requires a login account for downloading datasets.
 <br>
 
