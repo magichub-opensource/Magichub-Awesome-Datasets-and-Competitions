@@ -4,16 +4,16 @@
 
 目前Magichub已经开源的数据集有68个，并仍在持续更新中。
 
+# Competitions
+## [MagicData-RAMC-Challenge | MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "")
+[Overview | 赛程说明](https://magichub.com/competition/magichub-accented-mandarin-chinese-asr-challenge/)
+
 # ASR & TTS Corpus
 
 ## Datasets License
 [Magic Data Open-Source License](https://magichub.com/magic-data-open-source-license/)
 
 <br><br>
-
-## Competitions
-#### [MagicData-RAMC-Challenge | MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "")
-[Overview | 赛程说明](https://magichub.com/competition/magichub-accented-mandarin-chinese-asr-challenge/)
 
 ## Datasets
 
